@@ -1,12 +1,6 @@
-I made some changes based on the author's source code to achieve different sound effects.
+I made some changes based on the original author: Michael Kolling's source code to achieve different sound effects.
 
-Beat Box - a simple sound example.
-Author: Michael Kolling
-
-Play with it, and you see what it does.
-
-It is not very sophisticated as it is. To see what it can do, create a TestBeat 
-object and call the testBeat methods.
+To see what it can do, create a TestBeat object and call the testBeat methods.
 
 To play some more, you can try the following:
 
@@ -28,5 +22,3 @@ To play some more, you can try the following:
    
  - Instead of doing it interactively, you can program a track. See the 
    testBeat methods in class TestBeat for examples.
-
- 
