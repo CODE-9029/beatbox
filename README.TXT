@@ -26,13 +26,5 @@ To play some more, you can try the following:
    
  - Instead of doing it interactively, you can program a track. See the 
    testBeat methods in class TestBeat for examples.
- 
- What more can you do? For one, someone should really write a GUI for this.
- A GUI could just call beat() as a result of a button push - then you have an interactive
- drum kit. Or you could have a GUI to define a track...
- 
-The idea for all this came from a Sun demo, which does something similar, but is 
-rather complex. So I tried to do this with a fairly simple interface.
- 
-Michael Kolling, Nov 2004
+
  
