@@ -1,3 +1,5 @@
+I made some changes based on the author's source code to achieve different sound effects.
+
 Beat Box - a simple sound example.
 Author: Michael Kolling
 
